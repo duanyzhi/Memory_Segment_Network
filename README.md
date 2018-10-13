@@ -11,5 +11,6 @@ Memory Segment Network based Image Geo-Localization
 # Run
 
 # Results
-[![Watch the video](https://raw.githubusercontent.com/duanyzhi/Memory_Segment_Network/master/data/Google/test/009900_0.jpg)](https://www.youtube.com/watch?v=hKzVXFhiN-Q&feature=youtu.be)
+click to see the video:  
+[![Watch the video](https://raw.githubusercontent.com/duanyzhi/Memory_Segment_Network/master/data/Oxford/test/04911_1435938031486259.png)](https://www.youtube.com/watch?v=hKzVXFhiN-Q&feature=youtu.be)
 
