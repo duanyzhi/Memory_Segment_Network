@@ -11,4 +11,4 @@ Memory Segment Network based Image Geo-Localization
 # Run
 
 # Results
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hKzVXFhiN-Q&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+![Oxford](https://www.youtube.com/watch?v=hKzVXFhiN-Q&feature=youtu.be)
